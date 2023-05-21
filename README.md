@@ -6,11 +6,11 @@ I’m currently  looking for a data analyst job
 anastasiianikonova@gmail.com
 ***
 ### My technology stack:
-SQL, Python, 
-AirFlow, 
-Tableau, SuperSet
-ClickHouse, PostgreSQL
-Pandas, NumPy, Matplotlib, Seaborn, Scipy
+- SQL, Python, 
+- AirFlow, 
+- Tableau, SuperSet
+- ClickHouse, PostgreSQL
+- Pandas, NumPy, Matplotlib, Seaborn, Scipy
 ***
 ## About me
 
