@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**AnastasiiaNikonova/AnastasiiaNikonova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently  looking for a data analyst job
+***
+### You can find me here:
+anastasiianikonova@gmail.com
+***
+### My technology stack:
+SQL, Python, 
+AirFlow, 
+Tableau, SuperSet
+ClickHouse, PostgreSQL
+Pandas, NumPy, Matplotlib, Seaborn, Scipy
+***
+## About me
 
-Here are some ideas to get you started:
+I love analytics and biology!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
